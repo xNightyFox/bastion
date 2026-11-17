@@ -7,7 +7,6 @@
 
 Demo ao vivo no talk sobre segurança em drones no **[AI Tinkerers São Paulo](https://aitinkerers.org/)**, 26/11/2026.
 
-Patrocínio: Oracle · Tractian
 
 ---
 
